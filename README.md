@@ -1,6 +1,6 @@
 # how to use
 
-`$ sudo git clone https://github.com/peters0m/mkfakeAPs`
+`$ git clone https://github.com/peters0m/mkfakeAPs`
 
 `$ cd mkfakeAPs`
  
