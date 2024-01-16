@@ -1,12 +1,11 @@
 # CreateList-fakeAPs-MacAdress
 
+# how to use
 
-### Como Usar:
+`$ git clone https://github.com/peters0m/mkfakeAPs`
 
-~ git clone https://github.com/peters0m/mkfakeAPs
+`$ cd mkfakeAPs`
+ 
+`$ chmod +x mkfakeAPs.sh`
 
-~ cd mkfakeAPs
-
-~ chmod +x mkfakeAPs.sh
-
-~ ./mkfakeAPs -h
+`$ ./mkfakeAPs -h`
