@@ -1,4 +1,5 @@
 # CreateList-fakeAPs-MacAdress
+- make your own list
 
 # how to use
 
