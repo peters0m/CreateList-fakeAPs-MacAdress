@@ -1,6 +1,3 @@
-# CreateList-fakeAPs-MacAdress
-make your own list
-
 # how to use
 
 `$ git clone https://github.com/peters0m/mkfakeAPs`
