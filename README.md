@@ -7,3 +7,5 @@
 `$ sudo chmod +x mkfakeAPs.sh`
 
 `$ ./mkfakeAPs -h`
+
+`$ cat listfakeAPs.txt`
