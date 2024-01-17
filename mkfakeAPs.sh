@@ -7,8 +7,7 @@ elif [ $1 != "-r" ] && [ $1 != "-i" ] || [ $2 -gt 10 ] || [ $2 -lt 1 ]; then
    exit 0
 fi
 
-echo off
-sudo rm -r listfakeAPs.txt
+echo -n > listfakeAPs.txt
 
 for((mac=1;mac<=$2;mac++));
 do
