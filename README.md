@@ -1,6 +1,6 @@
 # how to use
 
-`$ git clone https://github.com/peters0m/mkfakeAPs`
+`$ git clone https://github.com/gjardx/mkfakeAPs`
 
 `$ cd mkfakeAPs`
  
