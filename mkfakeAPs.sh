@@ -1,6 +1,6 @@
 #!/bin/bash
 if [ $1 == "-h" ]; then
-   echo -e "\n  CREATE FAKE APs 2024\n  Git:Peters0m\n\n  usage: nmkfakeAPs <options>[1~10]<options>\n\n  Options:\n  -i                   :input manual names\n  -r             <name>:repeat the name several times"
+   echo -e "\n  CREATE FAKE APs 2024\n  Git:msq2k\n\n  usage: nmkfakeAPs <options>[1~10]<options>\n\n  Options:\n  -i                   :input manual names\n  -r             <name>:repeat the name several times"
    exit 0
 elif [ $1 != "-r" ] && [ $1 != "-i" ] || [ $2 -gt 10 ] || [ $2 -lt 1 ]; then
    echo "invalid argument type 'mkfakeAps -h'"
