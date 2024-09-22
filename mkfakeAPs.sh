@@ -1,6 +1,6 @@
 #!/bin/bash
 if [ $1 == "-h" ]; then
-   echo -e "*CREATE FAKE APs*\n  Git:pinscher666\n\n  usage: nmkfakeAPs <option> <[1~10]> <param>\n\n  Options:\n  -i <count>                 :input manual names\n  -r <count> <name>          :repeat the several names"
+   echo -e "*CREATE FAKE APs*\n  Git:willypeters0n\n\n  usage: nmkfakeAPs <option> <[1~10]> <param>\n\n  Options:\n  -i <count>                 :input manual names\n  -r <count> <name>          :repeat the several names"
    exit 0
 fi
 
