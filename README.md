@@ -1,4 +1,4 @@
-# how to use
+# How to use
 
 `$ git clone https://github.com/WILLYPETERSON11/mkfakeAPs`
 
@@ -8,14 +8,14 @@
 
 `$ ./mkfakeAPs -h`
 
-# exemplo:
+# Example:
 
 `$ ./mkfakeAPs -r 10 test`
 
 `$ sudo airmon-ng start [interface]`
 
-usei wlo1 na [interface]
+I used WLO1 on the network interface
 
 `$ sudo mdk3 b -v listfakeAPs.txt`
 
-check wifi list.
+Check wifi list.
