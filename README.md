@@ -10,7 +10,7 @@
 
 # Example
 
-`$ ./mkfakeAPs -r 10 test`
+`$ ./mkfakeAPs -i 10`
 
 `$ sudo airmon-ng start [interface]`
 
