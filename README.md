@@ -8,7 +8,7 @@
 
 `$ ./mkfakeAPs -h`
 
-# Example:
+# Example
 
 `$ ./mkfakeAPs -r 10 test`
 
