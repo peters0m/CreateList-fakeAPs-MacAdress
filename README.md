@@ -8,12 +8,13 @@
 
 `$ ./mkfakeAPs -h`
 
-exemplo:
+# exemplo:
 
 `$ ./mkfakeAPs -r 10 test`
 
-`$ sudo airmon-ng start wlo1`
+`$ sudo airmon-ng start [interface]`
+ # usei wlo1 na [interface]
 
 `$ sudo mdk3 b -v listfakeAPs.txt`
 
-check wifi list.
+# check wifi list.
