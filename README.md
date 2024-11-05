@@ -13,6 +13,7 @@
 `$ ./mkfakeAPs -r 10 test`
 
 `$ sudo airmon-ng start [interface]`
+
 usei wlo1 na [interface]
 
 `$ sudo mdk3 b -v listfakeAPs.txt`
