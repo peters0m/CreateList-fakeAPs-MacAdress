@@ -4,6 +4,16 @@
 
 `$ cd mkfakeAPs`
  
-`$ sudo chmod +x mkfakeAPs.sh`
+`$ do chmod +x mkfakeAPs.sh`
 
 `$ ./mkfakeAPs -h`
+
+exemplo:
+
+`$ ./mkfakeAPs -r 10 test`
+
+`$ sudo airmon-ng start wlo1`
+
+`$ sudo mdk3 b -v listfakeAPs.txt`
+
+check wifi list.
